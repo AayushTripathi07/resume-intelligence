@@ -280,3 +280,7 @@ The system can scale to thousands of resumes efficiently.
 This project demonstrates a complete semantic search system using Endee Vector Database. It replaces inefficient keyword search with intelligent vector-based retrieval, improving candidate matching accuracy and recruiter efficiency.
 
 The system successfully integrates Endee for vector storage, indexing, and retrieval, fulfilling the project requirements for vector database integration and semantic search.
+
+## Project Demo
+
+###Demo Link: https://youtu.be/GulcNcYfRjI 
